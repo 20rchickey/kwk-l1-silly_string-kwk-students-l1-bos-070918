@@ -24,6 +24,7 @@ puts lowercased_phrase
 big_word = "supercalifragilisticexpialidocious"
 
 letter_count = #{big_word.length} Put a . after big_word and use a String method.
+learn submit_tag
 
 puts "There are #{letter_count} in #{big_word}"
 
